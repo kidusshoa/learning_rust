@@ -21,4 +21,21 @@ fn main() {
     println!("[/] for Division");
     stdin().read_line( &mut choice).expect( "Error in input");
 
+    let num1:f64 = num1.trim().parse.expect("Invalid number");
+    let num2:f64 = num2.trim().parse.expect("Invalid number"); 
+
+    let mut result: f64 = 0.0;
+
+    let choice: &str = choice.as_str().trim();
+    if choice == "+" {
+        result = num1 + num2;
+    }else if choice == "-" {
+        result = num1 - num2;
+    }else if choice == "*" {
+        result = num1 * num2;
+    }else if choice == "/" && num2 != 0.0 {
+        result = num1 / num2;
+    }else{
+        println!("Invalid choice");
+    }
 }
