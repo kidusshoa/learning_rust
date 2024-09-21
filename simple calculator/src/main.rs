@@ -21,8 +21,8 @@ fn main() {
     println!("[/] for Division");
     stdin().read_line( &mut choice).expect( "Error in input");
 
-    let num1:f64 = num1.trim().parse.expect("Invalid number");
-    let num2:f64 = num2.trim().parse.expect("Invalid number"); 
+    let num1:f64 = num1.trim().parse().expect("Invalid number");
+    let num2:f64 = num2.trim().parse().expect("Invalid number"); 
 
     let mut result: f64 = 0.0;
 
@@ -38,4 +38,6 @@ fn main() {
     }else{
         println!("Invalid choice");
     }
+
+    println!("The Result: {}", result);
 }
