@@ -1,0 +1,11 @@
+/home/kidus/Documents/ppy/learning_rust/snake/target/debug/deps/libgfx_device_gl-afd4c6febbb5217f.rmeta: /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/lib.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/command.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/factory.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/info.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/shade.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/state.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/tex.rs
+
+/home/kidus/Documents/ppy/learning_rust/snake/target/debug/deps/gfx_device_gl-afd4c6febbb5217f.d: /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/lib.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/command.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/factory.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/info.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/shade.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/state.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/tex.rs
+
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/lib.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/command.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/factory.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/info.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/shade.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/state.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/tex.rs:

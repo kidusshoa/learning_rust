@@ -1,0 +1,11 @@
+/home/kidus/Documents/ppy/learning_rust/snake/target/debug/deps/libarrayvec-0a81ff4943ab9860.rmeta: /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/lib.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec_impl.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/array_string.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/char.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/errors.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/utils.rs
+
+/home/kidus/Documents/ppy/learning_rust/snake/target/debug/deps/arrayvec-0a81ff4943ab9860.d: /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/lib.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec_impl.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/array_string.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/char.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/errors.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/utils.rs
+
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/lib.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec_impl.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/arrayvec.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/array_string.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/char.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/errors.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.6/src/utils.rs:

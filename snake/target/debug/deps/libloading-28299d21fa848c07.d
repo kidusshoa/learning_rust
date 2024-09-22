@@ -1,0 +1,12 @@
+/home/kidus/Documents/ppy/learning_rust/snake/target/debug/deps/liblibloading-28299d21fa848c07.rmeta: /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/lib.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/changelog.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/mod.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/unix/mod.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/unix/consts.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/util.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/error.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/safe.rs
+
+/home/kidus/Documents/ppy/learning_rust/snake/target/debug/deps/libloading-28299d21fa848c07.d: /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/lib.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/changelog.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/mod.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/unix/mod.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/unix/consts.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/util.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/error.rs /home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/safe.rs
+
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/lib.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/changelog.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/mod.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/unix/mod.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/os/unix/consts.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/util.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/error.rs:
+/home/kidus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.5/src/safe.rs:
